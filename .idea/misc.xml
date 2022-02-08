@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/82105/Desktop/android_webview_memento/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.34322916666666664" />
+        <entry key="..\:/Users/82105/Desktop/android_webview_memento/app/src/main/res/layout/activity_lock_screen.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/82105/Desktop/android_webview_memento/app/src/main/res/layout/activity_main.xml" value="0.536" />
         <entry key="..\:/Users/user/AndroidStudioProjects/webview_boillerplate/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
